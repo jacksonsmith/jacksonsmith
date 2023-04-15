@@ -26,7 +26,7 @@ Position: Software Engineer
 Responsibilities: As a Software Engineer at CI&T, I contributed to the development of several projects using different technologies, such as mobile and web applications. I also worked with teams to implement continuous integration and delivery practices.
 Contact Information
 
-If you would like to get in touch with me, you can reach me through my LinkedIn profile or via email at jacksonsmith@email.com.
+If you would like to get in touch with me, you can reach me through my LinkedIn profile or via email at jackson.96@gmail.com.
 
 Thank you for taking the time to read my README file. I look forward to connecting with you!
 
