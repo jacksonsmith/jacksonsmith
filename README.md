@@ -16,9 +16,11 @@ My expertise includes Mobile Development, specifically Swift for iOS, Android, a
 Sanar (2020 - Present)
 Position: Software Engineer
 Responsibilities: I am responsible for designing and developing software solutions for the Sanar platform. I work with a team of engineers to create scalable and reliable systems that provide value to our users.
+
 Thoughtworks (2018 - 2020)
 Position: Senior Software Engineer
 Responsibilities: At Thoughtworks, I worked on various projects, including the development of mobile applications and backend systems. I also collaborated with teams of engineers and clients to ensure the successful delivery of software products.
+
 CI&T (2014 - 2018)
 Position: Software Engineer
 Responsibilities: As a Software Engineer at CI&T, I contributed to the development of several projects using different technologies, such as mobile and web applications. I also worked with teams to implement continuous integration and delivery practices.
